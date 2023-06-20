@@ -1,6 +1,13 @@
 # Capstone-Project-3-Classification
 Cardiovascular Risk Prediction
 
+
+
+![image](https://github.com/Shubham-droid24/Cardiovascular-Risk-Prediction/assets/72461022/c4e60fa9-353c-455f-9ed4-6ec2f5070ed6)
+
+
+I have built machine learning models solving a classification problem to identify whether a patient has a 10-year risk of future coronary heart disease. I have used K-Nearest Neighbours, Support Vector Classifier and Random Forest Classifier to solve the problem and got the best results with the K-Nearest Neighbours.
+
 ## Problem Statement
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts.
