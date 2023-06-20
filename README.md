@@ -1,5 +1,5 @@
-# Capstone-Project-3-Classification
-Cardiovascular Risk Prediction
+# Cardiovascular Risk Prediction
+AlmaBetter Verified Project
 
 
 
